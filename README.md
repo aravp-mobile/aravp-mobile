@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm ARVIND PRADHAN</h1>
+<h3 align="center">A 🔥 Android and Flutter developer from India 🌟</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamhackz" alt="shubhamhackz" /> </p>
 
 <!--
 **av-arvind77/av-arvind77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
