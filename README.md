@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARVIND PRADHAN</h1>
-<h3 align="center">A 🔥 Android and Flutter developer from India 🌟</h3>
+<h3 align="center">A 🔥 Android Developer from India 🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamhackz" alt="shubhamhackz" /> </p>
 
 <!--
