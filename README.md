@@ -1,18 +1,11 @@
-<h1 align="center">Hi 👋, I'm ARVIND PRADHAN</h1>
-<h3 align="center">A 🔥 Android Developer from India 🌟</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamhackz" alt="shubhamhackz" /> </p>
+### Hi, I'm Arvind Pradhan
 
-<!--
-**av-arvind77/av-arvind77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Twitter](https://img.shields.io/badge/-Twitter-22272E?style=flat-square&logo=twitter&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://twitter.com/dinoy_raj)](https://twitter.com/dinoy_raj)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-22272E?style=flat-square&logo=Linkedin&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.linkedin.com/in/dinoy-raj-k/)](https://www.linkedin.com/in/arvind-pradhan/)
+[![Linkedin](https://img.shields.io/badge/-Instagram-22272E?style=flat-square&logo=Instagram&logoColor=ADBAC7&bg_color=AARRGGBB&link=https://www.instagram.com/dinoy__raj/?hl=en)](https://www.instagram.com/dinoy__raj/?hl=en)
+[![Linkedin](https://img.shields.io/badge/-Gmail-22272E?style=flat-square&logo=Gmail&logoColor=ADBAC7&bg_color=AARRGGBB&link=dinoykraj@gmail.com)](mailto:arvindpradhan162@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ###### Last Updated on   15/07/2024 11:35:25 UTC
+<!--END_SECTION:waka-->
