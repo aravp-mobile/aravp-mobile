@@ -69,7 +69,7 @@ Tech moves fast, and I move with it — whether it’s Jetpack Compose or CI/CD 
 
 - 🌐 [LinkedIn](https://linkedin.com/in/arvind-pradhan)
 - 💌 Email: arvindpradhan162@gmail.com
-- 🧪 LeetCode: [leetcode.com/u/yourprofile](https://leetcode.com/u/arvind162)
+- 🧪 LeetCode: [https://leetcode.com/u/arvindpradhan162](https://leetcode.com/u/arvindpradhan162/)
 
 ---
 
